@@ -1,6 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
-@import "~bootstrap/dist/css/bootstrap.min.css";
-
+:host{
+  height: 100vh;
+  display: block;
+  background-color:darksalmon ;
+  border:1px solid deeppink;
+}
 .custom-card{
   width: 350px;
   max-width: 100%;
